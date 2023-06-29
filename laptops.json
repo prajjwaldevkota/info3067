@@ -1,0 +1,168 @@
+[
+	{
+		"PRODUCTID": "LPD1",
+		"PRODUCTNAME": "Dell XPS 13",
+		"GRAPHICNAME": "xps13.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "15",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell XPS 13 is a compact and powerful laptop. It features a 13-inch InfinityEdge display, Intel Core i5 processor, 8GB RAM, and a 256GB SSD for fast performance and ample storage.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD2",
+		"PRODUCTNAME": "HP Spectre x360",
+		"GRAPHICNAME": "spectre.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Spectre x360 is a versatile 2-in-1 laptop with a 13.3-inch touchscreen display. It offers an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop can be flipped to function as a tablet as well.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "LPD3",
+		"PRODUCTNAME": "Lenovo ThinkPad X1 Yoga",
+		"GRAPHICNAME": "thinkpadx1yoga.jpg",
+		"COST": "1700",
+		"MSRP": "1900",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo ThinkPad X1 Yoga is a premium 2-in-1 laptop with a 14-inch OLED display. It offers powerful performance with an Intel Core i7 processor, 16GB RAM, and a 1TB SSD. The laptop also supports a stylus for enhanced productivity.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LPD4",
+		"PRODUCTNAME": "Apple MacBook Pro 16",
+		"GRAPHICNAME": "macbookpro16.jpg",
+		"COST": "2500",
+		"MSRP": "2800",
+		"QTYONHAND": "6",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Apple MacBook Pro 16 is a high-performance laptop with a stunning 16-inch Retina display. It features an Intel Core i9 processor, 32GB RAM, and a 1TB SSD. The laptop is known for its sleek design and powerful capabilities.",
+		"BRAND": "Apple"
+	},
+	{
+		"PRODUCTID": "LPD5",
+		"PRODUCTNAME": "ASUS ROG Zephyrus G14",
+		"GRAPHICNAME": "rogzephyrus.jpg",
+		"COST": "1800",
+		"MSRP": "2000",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The ASUS ROG Zephyrus G14 is a gaming laptop with a 14-inch display. It is powered by an AMD Ryzen 9 processor, 16GB RAM, and an NVIDIA GeForce RTX 3060 graphics card. The laptop offers a high refresh rate and excellent gaming performance.",
+		"BRAND": "ASUS"
+	},
+	{
+		"PRODUCTID": "LPD6",
+		"PRODUCTNAME": "Acer Swift 5",
+		"GRAPHICNAME": "acerswift5.jpg",
+		"COST": "1100",
+		"MSRP": "1300",
+		"QTYONHAND": "5",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Acer Swift 5 is an ultra-lightweight laptop with a 14-inch Full HD display. It features an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. With a slim and stylish design, it offers great portability and performance.",
+		"BRAND": "Acer"
+	},
+	{
+		"PRODUCTID": "LPD7",
+		"PRODUCTNAME": "Microsoft Surface Laptop 4",
+		"GRAPHICNAME": "surface4.jpg",
+		"COST": "1300",
+		"MSRP": "1500",
+		"QTYONHAND": "7",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Microsoft Surface Laptop 4 is a premium laptop with a 13.5-inch PixelSense display. It comes with options for both Intel Core i5 and i7 processors, up to 16GB RAM, and up to 1TB SSD. The laptop offers a sleek design and excellent build quality.",
+		"BRAND": "Microsoft"
+	},
+	{
+		"PRODUCTID": "LPD8",
+		"PRODUCTNAME": "Razer Blade 15",
+		"GRAPHICNAME": "razerblade15.jpg",
+		"COST": "2000",
+		"MSRP": "2200",
+		"QTYONHAND": "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Razer Blade 15 is a high-performance gaming laptop with a 15.6-inch Full HD display. It features an Intel Core i7 processor, 16GB RAM, and an NVIDIA GeForce RTX 3070 graphics card. The laptop offers a sleek and compact design suitable for gaming enthusiasts.",
+		"BRAND": "Razer"
+	},
+	{
+		"PRODUCTID": "LPD9",
+		"PRODUCTNAME": "Samsung Galaxy Book Pro",
+		"GRAPHICNAME": "galaxybookpro.jpg",
+		"COST": "1600",
+		"MSRP": "1800",
+		"QTYONHAND": "9",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Samsung Galaxy Book Pro is a slim and lightweight laptop with a 15.6-inch AMOLED display. It features an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop offers a vibrant display and long battery life.",
+		"BRAND": "Samsung"
+	},
+	{
+		"PRODUCTID": "LPD10",
+		"PRODUCTNAME": "HP Envy x360",
+		"GRAPHICNAME": "envyx360.jpg",
+		"COST": "900",
+		"MSRP": "1000",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Envy x360 is a versatile 2-in-1 laptop with a 15.6-inch touchscreen display. It offers an AMD Ryzen 5 processor, 8GB RAM, and a 256GB SSD. The laptop can be used in multiple modes and is suitable for both work and entertainment.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "LPD11",
+		"PRODUCTNAME": "Dell Inspiron 15",
+		"GRAPHICNAME": "inspiron15.jpg",
+		"COST": "800",
+		"MSRP": "900",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell Inspiron 15 is a budget-friendly laptop with a 15.6-inch Full HD display. It features an Intel Core i5 processor, 8GB RAM, and a 256GB SSD. The laptop offers reliable performance for everyday computing tasks.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD12",
+		"PRODUCTNAME": "Lenovo Yoga C940",
+		"GRAPHICNAME": "yogac940.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "6",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo Yoga C940 is a premium 2-in-1 laptop with a 14-inch touchscreen display. It comes with an Intel Core i7 processor, 16GB RAM, and a 1TB SSD. The laptop offers a versatile design and excellent performance.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LPD13",
+		"PRODUCTNAME": "ASUS ROG Zephyrus G14",
+		"GRAPHICNAME": "zephyrusg14.jpg",
+		"COST": "1800",
+		"MSRP": "2000",
+		"QTYONHAND": "4",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The ASUS ROG Zephyrus G14 is a powerful gaming laptop with a 14-inch Full HD display. It features an AMD Ryzen 9 processor, 32GB RAM, and an NVIDIA GeForce RTX 3060 graphics card. The laptop offers exceptional gaming performance and a compact design.",
+		"BRAND": "ASUS"
+	},
+	{
+		"PRODUCTID": "LPD14",
+		"PRODUCTNAME": "Apple MacBook Air",
+		"GRAPHICNAME": "macbookair.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Apple MacBook Air is a lightweight and portable laptop with a 13.3-inch Retina display. It comes with an Apple M1 chip, 8GB RAM, and a 256GB SSD. The laptop offers excellent battery life and a sleek design.",
+		"BRAND": "Apple"
+	},
+	{
+		"PRODUCTID": "LPD15",
+		"PRODUCTNAME": "Google Pixelbook Go",
+		"GRAPHICNAME": "pixelbookgo.jpg",
+		"COST": "1000",
+		"MSRP": "1200",
+		"QTYONHAND": "6",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Google Pixelbook Go is a lightweight and portable laptop with a 13.3-inch Full HD display. It features an Intel Core i5 processor, 8GB RAM, and a 128GB SSD. The laptop offers a quiet keyboard and long battery life.",
+		"BRAND": "Google"
+	}
+
+]
