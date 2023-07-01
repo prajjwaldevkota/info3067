@@ -462,17 +462,6 @@
 		"BRAND": "HP"
 	},
 	{
-		"PRODUCTID": "LPD11",
-		"PRODUCTNAME": "Dell Inspiron 15",
-		"GRAPHICNAME": "inspiron15.jpg",
-		"COST": "800",
-		"MSRP": "900",
-		"QTYONHAND": "10",
-		"QTYONBACKORDER": "0",
-		"DESCRIPTION": "The Dell Inspiron 15 is a budget-friendly laptop with a 15.6-inch Full HD display. It features an Intel Core i5 processor, 8GB RAM, and a 256GB SSD. The laptop offers reliable performance for everyday computing tasks.",
-		"BRAND": "Dell"
-	},
-	{
 		"PRODUCTID": "LPD12",
 		"PRODUCTNAME": "Lenovo Yoga C940",
 		"GRAPHICNAME": "yogac940.jpg",
