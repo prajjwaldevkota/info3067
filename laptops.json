@@ -12,6 +12,83 @@
 	},
 	{
 		"PRODUCTID": "LPD2",
+		"PRODUCTNAME": "Dell Inspiron 15",
+		"GRAPHICNAME": "inspiron15.jpg",
+		"COST": "800",
+		"MSRP": "900",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "2",
+		"DESCRIPTION": "The Dell Inspiron 15 is a versatile laptop suitable for everyday tasks. It features a 15.6-inch display, Intel Core i3 processor, 4GB RAM, and a 1TB HDD for ample storage space.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD30",
+		"PRODUCTNAME": "Dell Alienware Aurora R10",
+		"GRAPHICNAME": "alienware_aurora.jpg",
+		"COST": "2000",
+		"MSRP": "2400",
+		"QTYONHAND": "5",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell Alienware Aurora R10 is a high-performance gaming desktop. It features an AMD Ryzen 9 processor, 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3080 graphics for an immersive gaming experience.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD40",
+		"PRODUCTNAME": "Dell Latitude 14",
+		"GRAPHICNAME": "latitude14.jpg",
+		"COST": "1100",
+		"MSRP": "1300",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION": "The Dell Latitude 14 is a reliable business laptop. It features a 14-inch display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD for smooth multitasking and fast boot times.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD50",
+		"PRODUCTNAME": "Dell G5 15 Gaming Laptop",
+		"GRAPHICNAME": "g5_15.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell G5 15 is a powerful gaming laptop. It features a 15.6-inch display with high refresh rate, Intel Core i7 processor, 16GB RAM, 512GB SSD, and NVIDIA GeForce RTX 3070 graphics for smooth gameplay.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD60",
+		"PRODUCTNAME": "Dell Precision 5550",
+		"GRAPHICNAME": "precision_5550.jpg",
+		"COST": "2500",
+		"MSRP": "2800",
+		"QTYONHAND": "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell Precision 5550 is a high-performance mobile workstation. It features a 15.6-inch display with 4K resolution, Intel Core i9 processor, 32GB RAM, 1TB SSD, and NVIDIA Quadro T2000 graphics for professional-grade computing power.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD70",
+		"PRODUCTNAME": "Dell OptiPlex 7070",
+		"GRAPHICNAME": "optiplex_7070.jpg",
+		"COST": "900",
+		"MSRP": "1000",
+		"QTYONHAND": "6",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell OptiPlex 7070 is a reliable desktop computer for business use. It features an Intel Core i5 processor, 8GB RAM, 256GB SSD, and integrated Intel UHD Graphics 630.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD90",
+		"PRODUCTNAME": "Dell Vostro 14 3400",
+		"GRAPHICNAME": "vostro_3400.jpg",
+		"COST": "700",
+		"MSRP": "800",
+		"QTYONHAND": "7",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell Vostro 14 3400 is a budget-friendly laptop for small businesses. It features a 14-inch display, Intel Core i5 processor, 8GB RAM, and a 256GB SSD.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD100",
 		"PRODUCTNAME": "HP Spectre x360",
 		"GRAPHICNAME": "spectre.jpg",
 		"COST": "1500",
@@ -19,6 +96,116 @@
 		"QTYONHAND": "8",
 		"QTYONBACKORDER": "0",
 		"DESCRIPTION": "The HP Spectre x360 is a versatile 2-in-1 laptop with a 13.3-inch touchscreen display. It offers an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop can be flipped to function as a tablet as well.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD11",
+		"PRODUCTNAME": "HP Pavilion x360",
+		"GRAPHICNAME": "pavilion_x360.jpg",
+		"COST": "800",
+		"MSRP": "900",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Pavilion x360 is a versatile 2-in-1 laptop with a 14-inch touchscreen display. It offers an Intel Core i5 processor, 8GB RAM, and a 256GB SSD. The laptop can be flipped to function as a tablet for increased flexibility.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD12",
+		"PRODUCTNAME": "HP Elite Dragonfly",
+		"GRAPHICNAME": "elite_dragonfly.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Elite Dragonfly is a premium business laptop with a lightweight design. It features a 13.3-inch display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop offers enterprise-level security and long battery life.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD13",
+		"PRODUCTNAME": "HP Envy 17",
+		"GRAPHICNAME": "envy_17.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "15",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Envy 17 is a powerful laptop with a large 17.3-inch display. It features an Intel Core i7 processor, 16GB RAM, 1TB SSD, and NVIDIA GeForce GTX 1660 Ti graphics for immersive multimedia and gaming experiences.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD14",
+		"PRODUCTNAME": "HP Spectre x360 14",
+		"GRAPHICNAME": "spectre_x360_14.jpg",
+		"COST": "1800",
+		"MSRP": "2000",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Spectre x360 14 is a high-performance 2-in-1 laptop with a 14-inch 4K OLED touchscreen display. It offers an Intel Core i7 processor, 16GB RAM, and a 1TB SSD. The laptop combines power and versatility in a sleek design.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD15",
+		"PRODUCTNAME": "HP OMEN 17 Gaming Laptop",
+		"GRAPHICNAME": "omen_17.jpg",
+		"COST": "1800",
+		"MSRP": "2000",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP OMEN 17 is a high-performance gaming laptop. It features a 17.3-inch high-refresh-rate display, Intel Core i9 processor, 32GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3080 graphics for smooth and immersive gaming.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD16",
+		"PRODUCTNAME": "HP ProBook 450 G8",
+		"GRAPHICNAME": "probook_450.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "15",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP ProBook 450 G8 is a reliable business laptop with a 15.6-inch display. It offers an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop features advanced security features and durable construction.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD17",
+		"PRODUCTNAME": "HP ZBook Fury 15 G8",
+		"GRAPHICNAME": "zbook_fury_15.jpg",
+		"COST": "2500",
+		"MSRP": "2800",
+		"QTYONHAND": "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP ZBook Fury 15 G8 is a high-performance mobile workstation. It features a 15.6-inch display with 4K resolution, Intel Core i9 processor, 32GB RAM, 1TB SSD, and NVIDIA Quadro RTX 5000 graphics for demanding professional workloads.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD18",
+		"PRODUCTNAME": "HP ENVY x360 15",
+		"GRAPHICNAME": "envy_x360_15.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP ENVY x360 15 is a versatile 2-in-1 laptop with a 15.6-inch touchscreen display. It offers an AMD Ryzen 7 processor, 16GB RAM, and a 512GB SSD. The laptop provides powerful performance and flexible usage modes.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD19",
+		"PRODUCTNAME": "HP Spectre Folio",
+		"GRAPHICNAME": "spectre_folio.jpg",
+		"COST": "2000",
+		"MSRP": "2200",
+		"QTYONHAND": "5",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Spectre Folio is a unique 2-in-1 laptop with a leather-wrapped design. It features a 13.3-inch display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop offers a distinctive look and premium craftsmanship.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "HPD20",
+		"PRODUCTNAME": "HP EliteBook 840 G8",
+		"GRAPHICNAME": "elitebook_840.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP EliteBook 840 G8 is a professional laptop with a 14-inch display. It offers an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop combines performance, security, and durability for business use.",
 		"BRAND": "HP"
 	},
 	{
@@ -33,6 +220,61 @@
 		"BRAND": "Lenovo"
 	},
 	{
+		"PRODUCTID": "LEN100",
+		"PRODUCTNAME": "Lenovo ThinkPad X1 Carbon",
+		"GRAPHICNAME": "thinkpad_x1_carbon.jpg",
+		"COST": "1800",
+		"MSRP": "2000",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo ThinkPad X1 Carbon is a premium ultrabook with a 14-inch display. It features an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop offers excellent build quality, security features, and long battery life.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LEN101",
+		"PRODUCTNAME": "Lenovo Yoga C940",
+		"GRAPHICNAME": "yoga_c940.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo Yoga C940 is a versatile 2-in-1 laptop with a 14-inch touchscreen display. It offers an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop features a sleek design and a rotating soundbar for immersive audio experience.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LEN102",
+		"PRODUCTNAME": "Lenovo Legion 5",
+		"GRAPHICNAME": "legion_5.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "15",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo Legion 5 is a gaming laptop with a 15.6-inch high-refresh-rate display. It features an AMD Ryzen 7 processor, 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3060 graphics for smooth gaming performance.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LEN103",
+		"PRODUCTNAME": "Lenovo IdeaPad 5",
+		"GRAPHICNAME": "ideapad_5.jpg",
+		"COST": "800",
+		"MSRP": "900",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo IdeaPad 5 is a mid-range laptop with a 15.6-inch display. It offers an AMD Ryzen 5 processor, 8GB RAM, and a 256GB SSD. The laptop provides a balance of performance and affordability.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LEN104",
+		"PRODUCTNAME": "Lenovo Flex 5",
+		"GRAPHICNAME": "flex_5.jpg",
+		"COST": "1000",
+		"MSRP": "1200",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo Flex 5 is a 2-in-1 convertible laptop with a 14-inch touchscreen display. It offers an AMD Ryzen 7 processor, 16GB RAM, and a 512GB SSD. The laptop combines flexibility and performance for productivity and entertainment.",
+		"BRAND": "Lenovo"
+	},
+	{
 		"PRODUCTID": "LPD4",
 		"PRODUCTNAME": "Apple MacBook Pro 16",
 		"GRAPHICNAME": "macbookpro16.jpg",
@@ -41,6 +283,61 @@
 		"QTYONHAND": "6",
 		"QTYONBACKORDER": "0",
 		"DESCRIPTION": "The Apple MacBook Pro 16 is a high-performance laptop with a stunning 16-inch Retina display. It features an Intel Core i9 processor, 32GB RAM, and a 1TB SSD. The laptop is known for its sleek design and powerful capabilities.",
+		"BRAND": "Apple"
+	},
+	{
+		"PRODUCTID": "APP100",
+		"PRODUCTNAME": "Apple MacBook Pro 13",
+		"GRAPHICNAME": "macbook_pro_13.jpg",
+		"COST": "1800",
+		"MSRP": "2000",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Apple MacBook Pro 13 is a high-performance laptop with a 13-inch Retina display. It features an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop offers a sleek design, powerful performance, and excellent battery life.",
+		"BRAND": "Apple"
+	},
+	{
+		"PRODUCTID": "APP101",
+		"PRODUCTNAME": "Apple MacBook Air",
+		"GRAPHICNAME": "macbook_air.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Apple MacBook Air is a lightweight and portable laptop with a 13.3-inch Retina display. It features an Apple M1 chip, 16GB RAM, and a 512GB SSD. The laptop offers fast performance, long battery life, and a sleek design.",
+		"BRAND": "Apple"
+	},
+	{
+		"PRODUCTID": "APP102",
+		"PRODUCTNAME": "Apple iMac 27",
+		"GRAPHICNAME": "imac_27.jpg",
+		"COST": "2000",
+		"MSRP": "2200",
+		"QTYONHAND": "5",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Apple iMac 27 is a powerful all-in-one desktop computer with a 27-inch Retina 5K display. It features an Intel Core i9 processor, 32GB RAM, and a 1TB SSD. The iMac offers stunning visuals, fast performance, and a sleek design.",
+		"BRAND": "Apple"
+	},
+	{
+		"PRODUCTID": "APP103",
+		"PRODUCTNAME": "Apple Mac mini",
+		"GRAPHICNAME": "mac_mini.jpg",
+		"COST": "800",
+		"MSRP": "900",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Apple Mac mini is a compact and powerful desktop computer. It features an Apple M1 chip, 8GB RAM, and a 256GB SSD. The Mac mini offers fast performance, versatile connectivity options, and a small form factor.",
+		"BRAND": "Apple"
+	},
+	{
+		"PRODUCTID": "APP104",
+		"PRODUCTNAME": "Apple MacBook Pro 16",
+		"GRAPHICNAME": "macbook_pro_16.jpg",
+		"COST": "2500",
+		"MSRP": "2800",
+		"QTYONHAND": "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Apple MacBook Pro 16 is a professional-grade laptop with a 16-inch Retina display. It features an Intel Core i9 processor, 32GB RAM, and a 1TB SSD. The laptop offers exceptional performance, a stunning display, and advanced features.",
 		"BRAND": "Apple"
 	},
 	{
@@ -53,6 +350,61 @@
 		"QTYONBACKORDER": "0",
 		"DESCRIPTION": "The ASUS ROG Zephyrus G14 is a gaming laptop with a 14-inch display. It is powered by an AMD Ryzen 9 processor, 16GB RAM, and an NVIDIA GeForce RTX 3060 graphics card. The laptop offers a high refresh rate and excellent gaming performance.",
 		"BRAND": "ASUS"
+	},
+	{
+		"PRODUCTID": "ASU100",
+		"PRODUCTNAME": "Asus ROG Zephyrus G14",
+		"GRAPHICNAME": "rog_zephyrus_g14.jpg",
+		"COST": "1800",
+		"MSRP": "2000",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Asus ROG Zephyrus G14 is a powerful gaming laptop with a 14-inch display. It features an AMD Ryzen 9 processor, 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3060 graphics. The laptop offers exceptional gaming performance in a portable form factor.",
+		"BRAND": "Asus"
+	},
+	{
+		"PRODUCTID": "ASU101",
+		"PRODUCTNAME": "Asus ZenBook 14",
+		"GRAPHICNAME": "zenbook_14.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Asus ZenBook 14 is a sleek and lightweight laptop with a 14-inch display. It features an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. The laptop offers a combination of style, performance, and portability.",
+		"BRAND": "Asus"
+	},
+	{
+		"PRODUCTID": "ASU102",
+		"PRODUCTNAME": "Asus VivoBook S15",
+		"GRAPHICNAME": "vivobook_s15.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "15",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Asus VivoBook S15 is a stylish and affordable laptop with a 15.6-inch display. It features an Intel Core i5 processor, 8GB RAM, and a 256GB SSD. The laptop offers a balance of performance, portability, and value.",
+		"BRAND": "Asus"
+	},
+	{
+		"PRODUCTID": "ASU103",
+		"PRODUCTNAME": "Asus TUF Gaming A15",
+		"GRAPHICNAME": "tuf_gaming_a15.jpg",
+		"COST": "1000",
+		"MSRP": "1200",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Asus TUF Gaming A15 is a budget-friendly gaming laptop with a 15.6-inch high-refresh-rate display. It features an AMD Ryzen 7 processor, 16GB RAM, 512GB SSD, and NVIDIA GeForce GTX 1660 Ti graphics. The laptop offers solid gaming performance at an affordable price.",
+		"BRAND": "Asus"
+	},
+	{
+		"PRODUCTID": "ASU104",
+		"PRODUCTNAME": "Asus ProArt StudioBook Pro 17",
+		"GRAPHICNAME": "proart_studiobook_pro_17.jpg",
+		"COST": "2500",
+		"MSRP": "2800",
+		"QTYONHAND": "3",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Asus ProArt StudioBook Pro 17 is a powerful mobile workstation with a 17-inch display. It features an Intel Core i7 processor, 32GB RAM, 1TB SSD, and NVIDIA Quadro RTX 3000 graphics. The laptop is designed for professionals who require high-performance computing for demanding tasks.",
+		"BRAND": "Asus"
 	},
 	{
 		"PRODUCTID": "LPD6",
@@ -133,13 +485,13 @@
 	},
 	{
 		"PRODUCTID": "LPD13",
-		"PRODUCTNAME": "ASUS ROG Zephyrus G14",
+		"PRODUCTNAME": "ASUS ROG Zephyrus G16",
 		"GRAPHICNAME": "zephyrusg14.jpg",
 		"COST": "1800",
 		"MSRP": "2000",
 		"QTYONHAND": "4",
 		"QTYONBACKORDER": "0",
-		"DESCRIPTION": "The ASUS ROG Zephyrus G14 is a powerful gaming laptop with a 14-inch Full HD display. It features an AMD Ryzen 9 processor, 32GB RAM, and an NVIDIA GeForce RTX 3060 graphics card. The laptop offers exceptional gaming performance and a compact design.",
+		"DESCRIPTION": "The ASUS ROG Zephyrus G146is a powerful gaming laptop with a 14-inch Full HD display. It features an AMD Ryzen 9 processor, 32GB RAM, and an NVIDIA GeForce RTX 3070 graphics card. The laptop offers exceptional gaming performance and a compact design.",
 		"BRAND": "ASUS"
 	},
 	{
