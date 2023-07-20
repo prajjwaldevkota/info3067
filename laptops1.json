@@ -1,0 +1,167 @@
+[
+	{
+		"PRODUCTID": "LPD1",
+		"PRODUCTNAME": "Dell XPS 13",
+		"GRAPHICNAME": "xps13.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "15",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell XPS 13 is a compact and powerful laptop. It features a 13-inch InfinityEdge display, Intel Core i5 processor, 8GB RAM, and a 256GB SSD for fast performance and ample storage.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD2",
+		"PRODUCTNAME": "Dell Inspiron 15",
+		"GRAPHICNAME": "inspiron15.jpg",
+		"COST": "800",
+		"MSRP": "900",
+		"QTYONHAND": "10",
+		"QTYONBACKORDER": "2",
+		"DESCRIPTION": "The Dell Inspiron 15 is a versatile laptop suitable for everyday tasks. It features a 15.6-inch display, Intel Core i3 processor, 4GB RAM, and a 1TB HDD for ample storage space.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD30",
+		"PRODUCTNAME": "Dell Alienware Aurora R10",
+		"GRAPHICNAME": "alienware_aurora.jpg",
+		"COST": "2000",
+		"MSRP": "2400",
+		"QTYONHAND": "5",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell Alienware Aurora R10 is a high-performance gaming desktop. It features an AMD Ryzen 9 processor, 16GB RAM, 1TB SSD, and NVIDIA GeForce RTX 3080 graphics for an immersive gaming experience.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD40",
+		"PRODUCTNAME": "Dell Latitude 14",
+		"GRAPHICNAME": "latitude14.jpg",
+		"COST": "1100",
+		"MSRP": "1300",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION": "The Dell Latitude 14 is a reliable business laptop. It features a 14-inch display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD for smooth multitasking and fast boot times.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPD50",
+		"PRODUCTNAME": "Dell G5 15 Gaming Laptop",
+		"GRAPHICNAME": "g5_15.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Dell G5 15 is a powerful gaming laptop. It features a 15.6-inch display with high refresh rate, Intel Core i7 processor, 16GB RAM, 512GB SSD, and NVIDIA GeForce RTX 3070 graphics for smooth gameplay.",
+		"BRAND": "Dell"
+	},
+	{
+		"PRODUCTID": "LPH1",
+		"PRODUCTNAME": "HP Spectre x360",
+		"GRAPHICNAME": "spectre_x360.jpg",
+		"COST": "1300",
+		"MSRP": "1500",
+		"QTYONHAND": "12",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION": "The HP Spectre x360 is a premium 2-in-1 laptop. It features a 13.3-inch 4K display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD. Its 360-degree hinge allows for versatile usage modes.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "LPH2",
+		"PRODUCTNAME": "HP Pavilion x360",
+		"GRAPHICNAME": "pavilion_x360.jpg",
+		"COST": "850",
+		"MSRP": "950",
+		"QTYONHAND": "6",
+		"QTYONBACKORDER": "2",
+		"DESCRIPTION": "The HP Pavilion x360 is a budget-friendly 2-in-1 laptop. It features a 14-inch Full HD display, Intel Core i3 processor, 8GB RAM, and a 256GB SSD. Perfect for daily productivity and entertainment.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "LPH3",
+		"PRODUCTNAME": "HP Elite Dragonfly",
+		"GRAPHICNAME": "elite_dragonfly.jpg",
+		"COST": "1700",
+		"MSRP": "1900",
+		"QTYONHAND": "9",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION": "The HP Elite Dragonfly is a premium business laptop. It features a 13.3-inch touchscreen display, Intel Core i5 processor, 16GB RAM, and a 512GB SSD. Designed for professionals on the go.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "LPH4",
+		"PRODUCTNAME": "HP Envy 17",
+		"GRAPHICNAME": "envy_17.jpg",
+		"COST": "1500",
+		"MSRP": "1700",
+		"QTYONHAND": "7",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The HP Envy 17 is a multimedia laptop with a large 17.3-inch display. It features an Intel Core i7 processor, 16GB RAM, 1TB HDD, and NVIDIA GeForce MX450 graphics for content creation and entertainment.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "LPH5",
+		"PRODUCTNAME": "HP Spectre x360 14",
+		"GRAPHICNAME": "spectre_x360_14.jpg",
+		"COST": "1600",
+		"MSRP": "1800",
+		"QTYONHAND": "4",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION": "The HP Spectre x360 14 is a high-end 2-in-1 laptop. It features a 14-inch 3:2 touchscreen display, Intel Core i7 processor, 16GB RAM, and a 1TB SSD. Perfect for power users and creative professionals.",
+		"BRAND": "HP"
+	},
+	{
+		"PRODUCTID": "LPL1",
+		"PRODUCTNAME": "Lenovo ThinkPad X1 Yoga",
+		"GRAPHICNAME": "thinkpad_x1_yoga.jpg",
+		"COST": "1400",
+		"MSRP": "1600",
+		"QTYONHAND": "11",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo ThinkPad X1 Yoga is a premium 2-in-1 business laptop. It features a 14-inch WQHD display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD. Built to withstand rugged business use.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LPL2",
+		"PRODUCTNAME": "Lenovo ThinkPad X1 Carbon",
+		"GRAPHICNAME": "thinkpad_x1_carbon.jpg",
+		"COST": "1300",
+		"MSRP": "1500",
+		"QTYONHAND": "13",
+		"QTYONBACKORDER": "2",
+		"DESCRIPTION": "The Lenovo ThinkPad X1 Carbon is a lightweight and durable business laptop. It features a 14-inch Full HD display, Intel Core i5 processor, 8GB RAM, and a 256GB SSD. Ideal for professionals on the move.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LPL3",
+		"PRODUCTNAME": "Lenovo Yoga C940",
+		"GRAPHICNAME": "yoga_c940.jpg",
+		"COST": "1200",
+		"MSRP": "1400",
+		"QTYONHAND": "9",
+		"QTYONBACKORDER": "1",
+		"DESCRIPTION": "The Lenovo Yoga C940 is a versatile 2-in-1 laptop. It features a 14-inch 4K display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD. Perfect for productivity and entertainment.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LPL4",
+		"PRODUCTNAME": "Lenovo Legion 5",
+		"GRAPHICNAME": "legion_5.jpg",
+		"COST": "1100",
+		"MSRP": "1300",
+		"QTYONHAND": "8",
+		"QTYONBACKORDER": "0",
+		"DESCRIPTION": "The Lenovo Legion 5 is a gaming laptop that offers excellent performance. It features a 15.6-inch Full HD display with a 144Hz refresh rate, AMD Ryzen 7 processor, 16GB RAM, 1TB SSD, and NVIDIA GeForce GTX 1660 Ti graphics.",
+		"BRAND": "Lenovo"
+	},
+	{
+		"PRODUCTID": "LPL5",
+		"PRODUCTNAME": "Lenovo IdeaPad 5",
+		"GRAPHICNAME": "ideapad_5.jpg",
+		"COST": "800",
+		"MSRP": "900",
+		"QTYONHAND": "6",
+		"QTYONBACKORDER": "3",
+		"DESCRIPTION": "The Lenovo IdeaPad 5 is a budget-friendly laptop with reliable performance. It features a 15.6-inch Full HD display, AMD Ryzen 5 processor, 8GB RAM, and a 256GB SSD. Suitable for daily computing tasks.",
+		"BRAND": "Lenovo"
+	}
+]
